@@ -24,12 +24,6 @@ A beautiful and functional calculator app built with **Kotlin** and **Android St
 - **ConstraintLayout & GridLayout** - For modern responsive UI
 - **Material Design** - Clean and simple user interface
 
----
-
-## 📸 Screenshots
-
-
-
 
 
 ## 🚀 Getting Started
@@ -37,4 +31,4 @@ A beautiful and functional calculator app built with **Kotlin** and **Android St
 1. Clone the repository:
 
 ```bash
-
+https://github.com/Sjagadale2002/calculator.git
